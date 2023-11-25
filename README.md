@@ -7,7 +7,7 @@
 1. Upload `results/results-without-grades.json`[here](https://forms.gle/WpqygtFy8QxVWau6A). 
 
 ## How to run the script stepy-by-step
-1. [Click here](https://github.com/thomaslinck/hc-query/archive/refs/heads/main.zip), download this folder and unzip it. 
+1. [Click here](https://github.com/thomaslinck/HCs/archive/refs/heads/main.zip), download this folder and unzip it. 
     1. Save it somewhere you will remember, you will need to navigate there shortly. 
 1. Open Forum 
     1. Right click the page, click inspect 
